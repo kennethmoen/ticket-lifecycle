@@ -22,7 +22,7 @@ Agents will be able to see live tickets in the agent panel. Queue managers will 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/ISfE0G7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/ticket-lifecycle/assets/145589069/df611d34-6728-4a0b-9d8d-85a5e9130068"/>
 </p>
 <p>
 In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
