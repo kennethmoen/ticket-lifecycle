@@ -29,6 +29,6 @@ In this example we are setting the priority level of the ticket. The priority ha
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/uJtuLaK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/kennethmoen/ticket-lifecycle/assets/145589069/b4430291-3f54-4d87-99ec-7137a3d03cd0"/>
 </p>
 <p>
